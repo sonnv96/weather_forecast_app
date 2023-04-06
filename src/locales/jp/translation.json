@@ -1,0 +1,43 @@
+{
+    "ui": {
+        "common": {
+            "seeMoreRecord": "記録をもっと見る",
+            "seeMoreDiary": "自分の日記をもっと見る",
+            "seeMoreColumn": "コラムをもっと見る",
+            "myRecord": "自分の記録",
+            "weightChart": "体重グラフ",
+            "theGoal": "目標",
+            "selectedCourse": "選択中のコース",
+            "columnList": "コラム一覧",
+            "setting": "設定",
+            "BODYRECORD": "BODY RECORD",
+            "MYEXERCISE": "MY EXERCISE",
+            "MYDIARY": "MY DIARY",
+            "RECOMMENDED": "RECOMMENDED",
+            "day": "日",
+            "week": "週",
+            "month": "月",
+            "year": "年"
+
+        },
+        "header": {
+            "record": "自分の記録",
+            "challenge": "チャレンジ",
+            "notice": "お知らせ"
+        },
+        "footer": {
+            "memberRegistration": "会員登録",
+            "operatingCompany": "運営会社",
+            "termsOfService": "利用規約",
+            "handlingPersonalInformation": "個人情報の取扱について",
+            "notationBased": "特定商取引法に基づく表記",
+            "inquiry": "お問い合わせ"
+        },
+        "main": {
+            "morning": "Morning",
+            "lunch": "Lunch",
+            "dinner": "Dinner",
+            "snack": "Snack"
+        }
+    }
+}
