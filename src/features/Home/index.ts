@@ -1,5 +1,6 @@
 export * from './HomePage';
-export * from './components/BoxChatB';
-export * from './components/BoxChatA';
+
+export * from './components/CurrentWeather';
+export * from './components/FutureWeather';
 
 
